@@ -8,8 +8,8 @@ layout: home
 <img
     src="assets/image/self-portrait.jpg"
     title="Objects in the mirror may appear more presentable than they are."
-    width="256"
-    style="float: right; margin-left: 20px;"
+    width="210"
+    style="float: right; margin-left: 20px; margin-bottom 10px;"
 />
 
 I'm a research software engineer living in Oxford and working at the [Environmental Change Institute](https://www.eci.ox.ac.uk/) on a variety of projects to do with climate change risk.
